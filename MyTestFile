@@ -1,4 +1,3 @@
-/****** Object:  Database [AdventureWorks] Script Date: 4/27/2024 5:16:32 PM ******/
 CREATE DATABASE [AdventureWorks]  (EDITION = 'Standard', SERVICE_OBJECTIVE = 'S0', MAXSIZE = 250 GB) WITH CATALOG_COLLATION = SQL_Latin1_General_CP1_CI_AS, LEDGER = OFF;
 
 My test file contents
