@@ -1,4 +1,3 @@
-/****** Object:  Table [Person].[Address]    Script Date: 4/29/2024 5:48:34 PM ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
